@@ -1,0 +1,29 @@
+{
+    "response": "product",
+    "isClothes": "N",
+    "product": {
+        "available": "YES",
+        "bigPic": [
+            "http://192.168.1.51:8080/redbaby/images/image3.png",
+            "http://192.168.1.51:8080/redbaby/images/image4.png"
+        ],
+        "buyLimit": 10,
+        "comment_count": 100,
+        "id": 101,
+        "inventory_area": "普邮",
+        "leftTime": 0,
+        "limitPrice": 0,
+        "marketprice": 100,
+        "name": "奶粉",
+        "pic": [
+            "http://192.168.1.51:8080/redbaby/images/image1.png",
+            "http://192.168.1.51:8080/redbaby/images/image2.png"
+        ],
+        "price": 200,
+        "product_prom": [
+            "促销信息1",
+            "促销信息2"
+        ],
+        "score": "normal"
+    }
+}

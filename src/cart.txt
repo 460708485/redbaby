@@ -1,0 +1,58 @@
+{
+    "response": "cart",
+    "cart": {
+        "cartitem": [
+            {
+                "product": {
+                    "id": "1200001",
+                    "name": "雅培金装",
+                    "pic": "",
+                    "price": "89",
+                    "number": 0,
+                    "uplimit": "10",
+                    "product_property": [
+                        {
+                            "key": "颜色",
+                            "value": "红色"
+                        },
+                        {
+                            "key": "大小",
+                            "value": "M"
+                        }
+                    ],
+                    "isgift": "false"
+                },
+                "prodNum": 3
+            },
+            {
+                "product": {
+                    "id": "1200001",
+                    "name": "雅培金装",
+                    "pic": "",
+                    "price": "89",
+                    "number": 0,
+                    "uplimit": "10",
+                    "product_property": [
+                        {
+                            "key": "颜色",
+                            "value": "红色"
+                        },
+                        {
+                            "key": "大小",
+                            "value": "M"
+                        }
+                    ],
+                    "isgift": "true"
+                },
+                "prodNum": 1
+            }
+        ],
+        "prom": [
+            "促销信息1",
+            "促销信息2"
+        ],
+        "totalCount": "3",
+        "totalPrice": "230",
+        "totalPoint": "230"
+    }
+}

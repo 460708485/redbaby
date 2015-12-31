@@ -1,0 +1,51 @@
+{
+	"response": "product",
+　　"product": 
+  {
+   "id": "1102539",          
+   "name": "雅培金装",  
+   "isclothes":"yes"     
+   "marketPrice": "79",        
+      "price": "78",             
+      "limitPrice": "68",          
+      "leftTime": "3600"          
+      "pic":[
+    "http://192.168.1.243/redbaby/images/image1.png",
+    "http://192.168.1.243/redbaby/images/image2.png"
+    ],
+   "score": "4.5,
+   "available": "yes",
+   "buyLimit":"购买上限"
+   "productProm":[
+      "促销信息1",
+      "促销信息2"
+   ],
+   "commentCount":"23",
+   "inventoryArea":"可发送至",
+   "bigPic":[
+      "http://192.168.1.243/redbaby/images/image3.png",
+      "http://192.168.1.243/redbaby/images/image4.png"
+   ], 
+   "product_property":[
+	     {
+            "id":1,
+			"key": "颜色",
+			"value": "红色"
+	     },
+         {
+            "id":2,
+			"key": "颜色",
+			"value": "白色"
+	     },
+		 {
+           "id":3,
+			"key": "大小",
+			"value": "M",
+		  },
+          {
+           "id":4,
+			"key": "大小",
+			"value": "L",
+		  }
+   ]
+}

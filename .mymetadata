@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="redbaby"
+  id="myeclipse.1397193965881"
+  context-root="/redbaby"
+  j2ee-spec="5.0"
+  archive="redbaby.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
